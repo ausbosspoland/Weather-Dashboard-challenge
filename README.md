@@ -15,3 +15,4 @@ GIVEN a weather dashboard with form inputs WHEN I search for a city THEN I am pr
 # Credits
 Austin Poland
 With help of tutorial on youtube https://www.youtube.com/watch?v=QEu8_5bYm-w
+Also used API from https://openweathermap.org/api/one-call-api just need to create free account and create your own API key.
